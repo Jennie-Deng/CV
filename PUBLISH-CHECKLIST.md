@@ -4,6 +4,7 @@
 
 - 主页已改为 Shuangyan Deng 的正式内容
 - 邮箱、LinkedIn、Google Scholar、ORCID 已加入页面
+- 头像已添加到 `assets/profile.jpg`
 - 简介、研究方向、论文、教育经历、访问经历和奖项已加入页面
 - GitHub 链接已加入页面：`https://github.com/Jennie-Deng`
 - `index.html` 和 `styles.css` 可直接作为静态网站发布
@@ -15,7 +16,6 @@
 ## 仍可补充
 
 - GitHub Pages 是否已在仓库设置中启用
-- 头像照片，建议放到 `assets/profile.jpg`
 - CV PDF，建议放到根目录并命名为 `cv.pdf`
 - 具体论文 PDF、代码、项目页链接
 
@@ -43,4 +43,4 @@ https://jennie-deng.github.io/CV/
 - Google Scholar、ORCID、LinkedIn、GitHub 链接可以打开
 - Actions 页面里的 `Deploy GitHub Pages` 运行成功
 - 如果添加了 CV，CV 按钮应指向 `cv.pdf`
-- 如果添加了头像，头像路径应是 `assets/profile.jpg`
+- 头像路径是 `assets/profile.jpg`

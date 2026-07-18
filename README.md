@@ -17,8 +17,7 @@
 
 ## 可选补充
 
-- 头像：把照片放到 `assets/profile.jpg`，然后把 `index.html` 里的头像占位块
-  换成图片标签。
+- 头像：已添加到 `assets/profile.jpg`，主页会自动显示。
 - CV：把 PDF 放到根目录并命名为 `cv.pdf`，然后把 CV 按钮链接从邮箱改成
   `cv.pdf`。
 - 当前远程仓库：`git@github.com:Jennie-Deng/CV.git`
