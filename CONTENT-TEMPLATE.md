@@ -11,6 +11,9 @@
 - Google Scholar：https://scholar.google.com/citations?user=f1wok9gAAAAJ&hl=en
 - ORCID：https://orcid.org/0009-0004-4395-2877
 - LinkedIn：https://www.linkedin.com/in/shuangyan-deng-720510300/
+- GitHub：https://github.com/Jennie-Deng
+- GitHub 仓库：git@github.com:Jennie-Deng/CV.git
+- 期望站点名/网址：shuangyan-deng.github.io
 
 ## 简介
 
@@ -50,7 +53,6 @@ particular emphasis on multimodal financial reasoning and stock price prediction
 
 ## 仍待补充
 
-- GitHub 用户名
 - 头像文件
 - CV PDF
 - 具体论文 PDF、代码、项目页链接

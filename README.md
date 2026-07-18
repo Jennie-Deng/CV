@@ -12,6 +12,7 @@
 - Google Scholar：https://scholar.google.com/citations?user=f1wok9gAAAAJ&hl=en
 - ORCID：https://orcid.org/0009-0004-4395-2877
 - LinkedIn：https://www.linkedin.com/in/shuangyan-deng-720510300/
+- GitHub：https://github.com/Jennie-Deng
 
 ## 可选补充
 
@@ -19,18 +20,19 @@
   换成图片标签。
 - CV：把 PDF 放到根目录并命名为 `cv.pdf`，然后把 CV 按钮链接从邮箱改成
   `cv.pdf`。
-- GitHub：提供 GitHub 用户名后，可以把仓库名设为
-  `GITHUB-USERNAME.github.io`。
+- 当前远程仓库：`git@github.com:Jennie-Deng/CV.git`
 
 ## 发布到 GitHub Pages
 
-1. 在 GitHub 新建仓库，推荐名称：
+当前仓库是 `Jennie-Deng/CV`。如果在这个仓库启用 GitHub Pages，常见页面地址是：
 
-   ```text
-   GITHUB-USERNAME.github.io
-   ```
+```text
+https://jennie-deng.github.io/CV/
+```
 
-2. 上传这些文件：
+发布步骤：
+
+1. 上传这些文件：
 
    ```text
    index.html
@@ -42,14 +44,18 @@
    assets/.gitkeep
    ```
 
-3. 打开仓库的 `Settings` > `Pages`。
-4. Source 选择 `Deploy from a branch`。
-5. Branch 选择 `main`，文件夹选择 `/root`，保存。
-6. 几分钟后访问：
+2. 打开仓库的 `Settings` > `Pages`。
+3. Source 选择 `Deploy from a branch`。
+4. Branch 选择 `main`，文件夹选择 `/root`，保存。
+5. 几分钟后访问：
 
    ```text
-   https://GITHUB-USERNAME.github.io
+   https://jennie-deng.github.io/CV/
    ```
+
+如果希望网址是账户根主页 `https://jennie-deng.github.io/`，GitHub 仓库名通常需要是
+`Jennie-Deng.github.io`。如果希望使用 `shuangyan-deng.github.io`，需要确认这是可用
+GitHub Pages 账户/组织名或已正确配置的自定义域。
 
 ## 用 Git 推送发布
 
@@ -62,6 +68,6 @@ git push -u origin main
 如果还没连接远程仓库，先添加远程地址：
 
 ```text
-git remote add origin https://github.com/GITHUB-USERNAME/GITHUB-USERNAME.github.io.git
+git remote add origin git@github.com:Jennie-Deng/CV.git
 git push -u origin main
 ```
