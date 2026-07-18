@@ -31,12 +31,18 @@
 https://jennie-deng.github.io/CV/
 ```
 
+推荐发布方式是 GitHub Actions。本仓库已经包含 `.github/workflows/pages.yml`，
+每次推送到 `main` 后会自动发布静态网页。
+
 发布步骤：
 
 1. 打开仓库的 `Settings` > `Pages`。
-2. Source 选择 `Deploy from a branch`。
-3. Branch 选择 `main`，文件夹选择 `/root`，保存。
-4. 几分钟后访问：
+2. 找到 `Build and deployment`。
+3. 如果能看到发布方式，选择 `GitHub Actions`。
+4. 如果页面没有 `Source`，看是否有 `GitHub Actions`、`Workflow`、`Actions`
+   或 `Deploy from a branch` 相关选项；选择 GitHub Actions 即可。
+5. 打开仓库的 `Actions` 页面，查看 `Deploy GitHub Pages` 是否运行成功。
+6. 几分钟后访问：
 
    ```text
    https://jennie-deng.github.io/CV/

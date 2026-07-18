@@ -8,6 +8,7 @@
 - GitHub 链接已加入页面：`https://github.com/Jennie-Deng`
 - `index.html` 和 `styles.css` 可直接作为静态网站发布
 - `.nojekyll` 已添加，GitHub Pages 会直接发布静态文件
+- `.github/workflows/pages.yml` 已添加，可用 GitHub Actions 发布 Pages
 - `404.html` 和 `robots.txt` 已添加
 - 本地 Git 仓库已初始化为 `main` 分支
 
@@ -40,5 +41,6 @@ https://jennie-deng.github.io/CV/
 - 页面标题显示 `Shuangyan Deng | Academic Homepage`
 - 联系邮箱是 `sden118@aucklanduni.ac.nz`
 - Google Scholar、ORCID、LinkedIn、GitHub 链接可以打开
+- Actions 页面里的 `Deploy GitHub Pages` 运行成功
 - 如果添加了 CV，CV 按钮应指向 `cv.pdf`
 - 如果添加了头像，头像路径应是 `assets/profile.jpg`
