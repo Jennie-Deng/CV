@@ -59,7 +59,6 @@ particular emphasis on multimodal financial reasoning and stock price prediction
 
 ## 仍待补充
 
-- 头像文件
 - 头像已保存为 `assets/profile.jpg`
-- CV PDF
+- CV PDF 已保存为 `CV.pdf`
 - 具体论文 PDF、代码、项目页链接

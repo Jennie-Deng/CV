@@ -19,8 +19,7 @@
 ## 可选补充
 
 - 头像：已添加到 `assets/profile.jpg`，主页会自动显示。
-- CV：把 PDF 放到根目录并命名为 `cv.pdf`，然后把 CV 按钮链接从邮箱改成
-  `cv.pdf`。
+- CV：已添加到根目录，文件名是 `CV.pdf`，主页按钮会直接下载。
 - 当前远程仓库：`git@github.com:Jennie-Deng/CV.git`
 
 ## 发布到 GitHub Pages

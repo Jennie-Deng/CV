@@ -17,7 +17,6 @@
 ## 仍可补充
 
 - GitHub Pages 是否已在仓库设置中启用
-- CV PDF，建议放到根目录并命名为 `cv.pdf`
 - 具体论文 PDF、代码、项目页链接
 
 ## 当前仓库
@@ -43,5 +42,6 @@ https://jennie-deng.github.io/CV/
 - 联系邮箱是 `sden118@aucklanduni.ac.nz`
 - Google Scholar、ORCID、LinkedIn、GitHub 链接可以打开
 - Actions 页面里的 `Deploy GitHub Pages` 运行成功
-- 如果添加了 CV，CV 按钮应指向 `cv.pdf`
+- CV PDF 已添加到根目录：`CV.pdf`
+- CV 按钮应指向 `CV.pdf`
 - 头像路径是 `assets/profile.jpg`
