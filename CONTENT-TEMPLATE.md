@@ -38,6 +38,12 @@ particular emphasis on multimodal financial reasoning and stock price prediction
 
 - ICAIF 2025 Best Paper Award
 
+## Photo Gallery
+
+- ICAIF 2025 Best Paper Award certificate：`assets/gallery/icaif-2025-certificate.jpg`
+- ICAIF 2025 award ceremony：`assets/gallery/icaif-2025-award.jpg`
+- ICAIF 2025 presentation：`assets/gallery/icaif-2025-presentation.jpg`
+
 ## 论文
 
 - FinMR: A Knowledge-Intensive Multimodal Benchmark for Advanced Financial

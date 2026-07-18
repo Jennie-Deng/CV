@@ -5,6 +5,7 @@
 - 主页已改为 Shuangyan Deng 的正式内容
 - 邮箱、LinkedIn、Google Scholar、ORCID 已加入页面
 - 头像已添加到 `assets/profile.jpg`
+- Photo Gallery 已添加到页面，图片位于 `assets/gallery/`
 - 简介、研究方向、论文、教育经历、访问经历和奖项已加入页面
 - GitHub 链接已加入页面：`https://github.com/Jennie-Deng`
 - `index.html` 和 `styles.css` 可直接作为静态网站发布

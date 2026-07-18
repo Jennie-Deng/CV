@@ -14,6 +14,7 @@
 - ORCID：https://orcid.org/0009-0004-4395-2877
 - LinkedIn：https://www.linkedin.com/in/shuangyan-deng-720510300/
 - GitHub：https://github.com/Jennie-Deng
+- Photo Gallery：ICAIF 2025 award certificate, award ceremony, and presentation photos
 
 ## 可选补充
 
