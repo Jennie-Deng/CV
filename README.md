@@ -1,8 +1,8 @@
 # Shuangyan Deng Academic Homepage
 
 双艳的个人学术主页与简历项目。这个仓库包含 Shuangyan Deng 的个人学术主页，
-已经填入邮箱、简介、研究方向、教育经历、访问经历、奖项和论文列表。项目是
-纯静态文件，可以直接发布到 GitHub Pages。
+已经填入邮箱、简介、研究方向、教育经历、访问经历、奖项、Photo Gallery、
+论文列表和可下载 CV。项目是纯静态文件，可以直接发布到 GitHub Pages。
 
 ## 当前内容
 
@@ -14,6 +14,7 @@
 - ORCID：https://orcid.org/0009-0004-4395-2877
 - LinkedIn：https://www.linkedin.com/in/shuangyan-deng-720510300/
 - GitHub：https://github.com/Jennie-Deng
+- CV：`CV.pdf`
 - Photo Gallery：ICAIF 2025 award certificate, award ceremony, and presentation photos
 
 ## 可选补充

@@ -17,22 +17,17 @@
 
 ## 简介
 
-I am a Ph.D. student in Statistics at the University of Auckland, supervised by
-Associate Professor Ciprian Doru Giurcaneanu and Associate Professor Jiamou Liu.
-Prior to my doctoral studies, I earned a Bachelor's degree in Finance from Anhui
-University in China and a Master of Science from the University of Leeds. My
-research focuses on the application of AI in the financial domain, with a
-particular emphasis on multimodal financial reasoning and stock price prediction.
+I am a Ph.D. student in Statistics at the University of Auckland, supervised by Associate Professor Ciprian Doru Giurcaneanu. Prior to my doctoral studies, I earned a Bachelor's degree in Finance from Anhui University in China and a Master of Science from the University of Leeds.My research focuses on the application of AI in the financial domain, with a particular emphasis on multimodal financial reasoning and stock price prediction.
 
 ## 教育经历
 
-- 2024-now：Ph.D. in Statistics, University of Auckland, NZ
-- 2018-2019：Master in Mathematics, University of Leeds, UK
-- 2013-2017：BSc in Finance, Anhui University, China
+- 2024-now: Ph.D. in Statistics, University of Auckland, NZ
+- 2018-2019: Master in Mathematics, University of Leeds, UK
+- 2013-2017: BSc in Finance, Anhui University, China
 
 ## 访问经历
 
-- 2025.10-now：Visiting Student in CCDS, Nanyang Technological University, SG
+- 2025.10-2026.06：Visiting Student in CCDS, Nanyang Technological University, SG
 
 ## 奖项
 
