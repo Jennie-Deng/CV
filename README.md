@@ -1,7 +1,8 @@
 # Shuangyan Deng Academic Homepage
 
-这是 Shuangyan Deng 的个人学术主页，已经填入邮箱、简介、研究方向、教育经历、
-访问经历、奖项和论文列表。项目是纯静态文件，可以直接发布到 GitHub Pages。
+双艳的个人学术主页与简历项目。这个仓库包含 Shuangyan Deng 的个人学术主页，
+已经填入邮箱、简介、研究方向、教育经历、访问经历、奖项和论文列表。项目是
+纯静态文件，可以直接发布到 GitHub Pages。
 
 ## 当前内容
 
@@ -32,22 +33,10 @@ https://jennie-deng.github.io/CV/
 
 发布步骤：
 
-1. 上传这些文件：
-
-   ```text
-   index.html
-   styles.css
-   404.html
-   .nojekyll
-   robots.txt
-   README.md
-   assets/.gitkeep
-   ```
-
-2. 打开仓库的 `Settings` > `Pages`。
-3. Source 选择 `Deploy from a branch`。
-4. Branch 选择 `main`，文件夹选择 `/root`，保存。
-5. 几分钟后访问：
+1. 打开仓库的 `Settings` > `Pages`。
+2. Source 选择 `Deploy from a branch`。
+3. Branch 选择 `main`，文件夹选择 `/root`，保存。
+4. 几分钟后访问：
 
    ```text
    https://jennie-deng.github.io/CV/
@@ -62,12 +51,5 @@ GitHub Pages 账户/组织名或已正确配置的自定义域。
 如果本地已经连接远程仓库，可以推送 `main` 分支：
 
 ```text
-git push -u origin main
-```
-
-如果还没连接远程仓库，先添加远程地址：
-
-```text
-git remote add origin git@github.com:Jennie-Deng/CV.git
 git push -u origin main
 ```
